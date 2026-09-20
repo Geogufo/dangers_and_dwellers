@@ -2,6 +2,7 @@
 
 ## 2026-09-20
 
+- Replaced the Action card figure in both rulebooks with the author-supplied annotated Urban Redevelopment diagram, with a white outer background; moved the extended rulebook's Timeline illustration to the year-end reference page.
 - Established the game repository with English Action, Event and Character card PDFs and boards from the project source folder.
 - Added the extended eight-page and short four-page editable rulebooks.
 - Included original heart, flood, landslide and earthquake icons alongside the statistic labels in the rulebooks.

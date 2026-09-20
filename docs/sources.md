@@ -14,12 +14,13 @@ The current editions include original health and hazard icons, the revised Cassa
 
 ## Images and icons
 
-All visual assets are taken from the existing game materials. No additional illustration credits or ownership claims are inferred.
+Visual assets are taken from the existing game materials and an annotated Action card diagram supplied by the author. No additional illustration credits or ownership claims are inferred.
 
 | Asset | Source |
 | --- | --- |
 | `assets/images/pablo.png` | Character Cards, page 1, top-left card |
 | `assets/images/research.png` | Action Cards, page 1, bottom-right card |
+| `assets/images/action-card-annotated.png` | Author-supplied Urban Redevelopment diagram; outer background cleaned to white for use in both rulebooks |
 | `assets/images/flash-flood.png` | Event Cards, page 1, bottom-right card |
 | `assets/images/island.png` | Boards, page 2, island board |
 | `assets/images/flood-board.png` | Boards, page 1, middle board |
