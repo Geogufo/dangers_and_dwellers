@@ -1,0 +1,43 @@
+{
+  "import_date": "2026-09-20",
+  "language": "en",
+  "source_folder": "https://drive.google.com/drive/folders/1tVTF7EhBuEyqxSONN9XCI728rUgb1Qm0",
+  "files": [
+    {
+      "path": "cards/en/action-cards.pdf",
+      "source_name": "ACTION CARDS.pdf",
+      "source_url": "https://drive.google.com/file/d/1Oy2bk24kAhPbad865kY0KfFLC3thkd_v/view",
+      "source_modified_time": "2026-09-20T12:03:26.162Z",
+      "bytes": 9579116,
+      "pages": 47,
+      "sha256": "0ff4cff1e841b45cf1769241e2cdca50ab3844010ac1242b1775341b82cc6c7b"
+    },
+    {
+      "path": "cards/en/event-cards.pdf",
+      "source_name": "EVENT CARDS.pdf",
+      "source_url": "https://drive.google.com/file/d/1pUgx7u3X2kCYhqVbkzZ-PEc1sc_pVAlc/view",
+      "source_modified_time": "2026-09-20T12:03:58.572Z",
+      "bytes": 2828256,
+      "pages": 11,
+      "sha256": "ad7674f25d9e5716f1c781614dd19ee037971904d3377cdb1af34d2e94196c06"
+    },
+    {
+      "path": "cards/en/character-cards.pdf",
+      "source_name": "CHARACTER CARDS.pdf",
+      "source_url": "https://drive.google.com/file/d/19ZwuVTOvPexhbA-ZO7Inwck1Ck_EJ3E0/view",
+      "source_modified_time": "2026-09-20T12:03:10.948Z",
+      "bytes": 1936978,
+      "pages": 16,
+      "sha256": "5b0daee2fabd30b13743998566d239c06383f8c8d4f8fbc944ee687f719101cc"
+    },
+    {
+      "path": "boards/en/boards.pdf",
+      "source_name": "BOARDS.pdf",
+      "source_url": "https://drive.google.com/file/d/1C__nZHZg6QY1SNMpSfYzF6EI7bfmH0zl/view",
+      "source_modified_time": "2026-09-20T12:03:37.801Z",
+      "bytes": 1774032,
+      "pages": 3,
+      "sha256": "cf0b5a816b241ab109d468f448c9e564012623ada115c14e51108a27a61978cd"
+    }
+  ]
+}

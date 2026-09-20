@@ -1,0 +1,6 @@
+# Office temporary files and local operating-system metadata
+~$*
+*.tmp
+Thumbs.db
+Desktop.ini
+.DS_Store
